@@ -1,0 +1,13 @@
+body {
+  display: grid;
+  margin: 30px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: auto;
+  font-family: "Noto Sans HK", sans-serif;
+}
+
+header {
+  display: grid;
+  grid-column: 2/4;
+  justify-content: center;
+}
