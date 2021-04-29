@@ -3,3 +3,11 @@ nav {
   justify-content: space-evenly;
   margin: 35px;
 }
+h1 {
+  display: flex;
+  justify-content: center;
+}
+.pic1 {
+  display: flex;
+  justify-content: center;
+}
