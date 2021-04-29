@@ -1,0 +1,10 @@
+nav {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 35px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
