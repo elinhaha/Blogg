@@ -28,8 +28,14 @@ header {
   margin: 20px;
 }
 
+.text2 p {
+  text-align: center;
+}
+
 nav {
-  grid-column: 1/4;
-  justify-content: center;
+  grid-column: 2/4;
+  display: flex;
+  justify-content: space-evenly;
   grid-row: auto;
+  margin: 20px;
 }
