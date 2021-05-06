@@ -3,3 +3,7 @@ nav {
   justify-content: space-evenly;
   margin: 35px;
 }
+.back-button {
+  position: fixed;
+  top: 32px;
+}
