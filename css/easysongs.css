@@ -4,9 +4,10 @@ body {
   grid-template-rows: auto;
 }
 nav {
-  display: flex;
-  justify-content: space-evenly;
+  display: grid;
+  grid-column: 1/4;
   margin: 35px;
+  grid-row: 1;
 }
 .back-button {
   position: fixed;
@@ -19,4 +20,11 @@ a {
 
 a:hover {
   font-weight: bolder;
+}
+h1 {
+  display: grid;
+  grid-column: 2/4;
+  grid-row: 1;
+  justify-content: center;
+  margin: 50x;
 }
