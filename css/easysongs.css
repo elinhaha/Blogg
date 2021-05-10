@@ -1,3 +1,8 @@
+body {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: auto;
+}
 nav {
   display: flex;
   justify-content: space-evenly;
