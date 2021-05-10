@@ -1,0 +1,14 @@
+nav {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 35px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bolder;
+}

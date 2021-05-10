@@ -1,0 +1,33 @@
+nav {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 35px;
+}
+h1 {
+  margin: 20px;
+  padding: 10px;
+}
+.question1 {
+  margin: 20px;
+  padding: 10px;
+}
+.question2 {
+  margin: 20px;
+  padding: 10px;
+}
+.question3 {
+  margin: 20px;
+  padding: 10px;
+}
+.question4 {
+  margin: 20px;
+  padding: 10px;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bolder;
+}
