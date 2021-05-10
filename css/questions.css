@@ -31,3 +31,6 @@ a {
 a:hover {
   font-weight: bolder;
 }
+body {
+  font-family: "Noto Sans HK", sans-serif;
+}

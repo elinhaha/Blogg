@@ -2,6 +2,7 @@ body {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: auto;
+  font-family: "Noto Sans HK", sans-serif;
 }
 nav {
   display: grid;
@@ -66,4 +67,11 @@ h1 {
 }
 .bild1 {
   grid-column: 1/5;
+}
+p {
+  display: grid;
+  grid-column: 2/4;
+  grid-row: 1;
+  justify-content: center;
+  margin: 60px;
 }
